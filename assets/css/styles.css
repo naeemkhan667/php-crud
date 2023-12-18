@@ -1,0 +1,53 @@
+#container {
+    background: lightgray;
+    width: 100%;
+    min-height: 500px;
+    padding-top: 15px;
+    border-radius: 15px;
+    
+}
+#main {
+    /* background: gray; */
+    width: 50%;
+    margin:0px auto;
+    padding: 10px;
+
+}
+.form_field {
+    width: 50%;
+    margin:0px auto;
+    padding-top: 10px;
+    text-align: left;
+}
+.form_field label {
+    padding: 5px 5px 5px 0px;
+    font-size: medium;
+}
+
+input[type=text] {
+    width: 300px;
+    height: 30px;
+}
+input[type=button] {
+    width: 100px;
+    height: 30px;
+}
+input[type=submit]{
+    width: 100px;
+    height: 30px;
+}
+
+body {
+    background: grey;
+    font-family: "Gill Sans", sans-serif;
+   font-size: 12pt;
+   margin: 3em;
+}
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;    
+}
+table td {
+    padding: 5px;
+    
+}
